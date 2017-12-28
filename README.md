@@ -72,4 +72,9 @@ OK, let's dump some tasks here for now:
 * [ ] Gift away all those duplicate game keys...
 
 # Inflownistration
-So, do I like meta? [Yes I do](https://xkcd.com/917/). Inlfownistration, a portmanteau of information flow administration, describes the very process of, in a way, _everything_ we do. We're 
+So, do I like meta? [Yes I do](https://xkcd.com/917/). Inlfownistration, a portmanteau of information flow administration, describes the very process of, in a way, _everything_ we do. We're basically always processing information, no matter what we do.
+
+* Eating? Information = Hunger (or tiredness, and the difficulty of differentiating between the two is not beneficial to your health or shape...), and ignoring it will impede your unburdened existence.
+* Work? Information = You need food to still your hunger, and that needs to be obtained somehow (usually indirectly via means of money and shopping).
+* Planning a tunnel? Information = the requirements, laws, guidelines, etc. 
+* Religion? Information = e.g. unexplained, probably improbable event. Despair. Hope. _Lots_.
