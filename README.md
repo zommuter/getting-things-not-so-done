@@ -48,6 +48,7 @@ OK, let's dump some tasks here for now:
 
 * [ ] Getting things not-so-done
   * [ ] Have CodeMirror automatically use spell-checking when GitHub-editing Markdown
+  * [ ] should internal anchor-links work in preview?
   * [ ] or change the work-flow, e.g. use Abricotine locally (with an on-save commit/pull?)
   * [ ] a TOC would be nice. But will this project remain monolithic?
   * [ ] Convert this into a github page
@@ -71,3 +72,4 @@ OK, let's dump some tasks here for now:
 * [ ] Gift away all those duplicate game keys...
 
 # Inflownistration
+So, do I like meta? [Yes I do](https://xkcd.com/917/). Inlfownistration, a portmanteau of information flow administration, describes the very process of, in a way, _everything_ we do. We're 
