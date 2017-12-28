@@ -78,3 +78,5 @@ So, do I like meta? [Yes I do](https://xkcd.com/917/). Inlfownistration, a portm
 * Work? Information = You need food to still your hunger, and that needs to be obtained somehow (usually indirectly via means of money and shopping).
 * Planning a tunnel? Information = the requirements, laws, guidelines, etc. 
 * Religion? Information = e.g. unexplained, probably improbable event. Despair. Hope. _Lots_.
+
+Somehow everything boils down to some input information (be it a simple sensory feedback such as feeling cold, or a convoluted network of learned behaviour such as knowing that social behaviour is (or at least, _should_) be more rewarding than _asocial_ behaviour), implied consequences.
