@@ -61,7 +61,7 @@ OK, let's dump some tasks here for now:
   * [ ] http://taiga.io
   * [ ] Phabricator
   * [ ] ???
-  * [ ] Profit <!-- also insert a Ferengi-joke here if you want -->
+  * [ ] Profit <!-- also insert a Ferengi-joke here if you want. Hrm, is there a git-blame-ish way to commit-comment individual lines? TODO: make this a TODO 😉 -->
 * [ ] Project management
 * [ ] Understand Ethereum better
 * [ ] Set up my Raspberry Pi 3 (with the self-hosted OpenSource super-tool I'm still trying to describe)
@@ -80,3 +80,7 @@ So, do I like meta? [Yes I do](https://xkcd.com/917/). Inlfownistration, a portm
 * Religion? Information = e.g. unexplained, probably improbable event. Despair. Hope. _Lots_.
 
 Somehow everything boils down to some input information (be it a simple sensory feedback such as feeling cold, or a convoluted network of learned behaviour such as knowing that social behaviour is (or at least, _should_) be more rewarding than _asocial_ behaviour), implied consequences and our decisions on how to interact (assuming free will, but I defy fatalism despite my cynicism).
+
+---
+
+I'm getting tired, and since Firefox' spell-checker won't understand the difference between "I think" and "I thing" (I almost committed that) anything added now might end up being gibberish, it's time to call it a day. If you, esteemed reader, actually went through the hassle of reading so far, well, thank you for the attention, please feel free to open an issue for any feedback. Meat-world will now spend some time with me, so see you next year :fireworks:
