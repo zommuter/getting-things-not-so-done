@@ -66,3 +66,5 @@ OK, let's dump some tasks here for now:
 * [ ] Set up my Raspberry Pi 3 (with the self-hosted OpenSource super-tool I'm still trying to describe)
 * [ ] Zomtems
 * [ ] the other "Projects"
+* [ ] Sift through my Steam games, maybe even _play_ some
+* [ ] Gift away all those duplicate game keys...
