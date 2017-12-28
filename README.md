@@ -46,6 +46,11 @@ I'm getting tired of unrendered Markdown. I think I'll try to integrate https://
 
 OK, let's dump some tasks here for now:
 
+* [ ] Getting things not-so-done
+  * [ ] Have CodeMirror automatically use spell-checking when GitHub-editing Markdown
+  * [ ] or change the work-flow, e.g. use Abricotine locally (with an on-save commit/pull?)
+  * [ ] Convert this into a github page
+  * [ ] Add comment and/or annotation system (how will annotations work with content changing over time? Maybe this monolith should be shattered)
 * [ ] Determine proper task tracking system
   * [ ] GitHub issues
   * [ ] or GitLab (I'm somehow hoping I'll find something OpenSource and self-hosted, yet usable without any further effort...)
@@ -54,8 +59,6 @@ OK, let's dump some tasks here for now:
   * [ ] Phabricator
   * [ ] ???
   * [ ] Profit <!-- also insert a Ferengi-joke here if you want -->
-* [ ] Convert this into a github page
-  * [ ] Add comment and/or annotation system (how will annotations work with content changing over time? Maybe this monolith should be shattered)
 * [ ] Project management
 * [ ] Understand Ethereum better
 * [ ] Set up my Raspberry Pi 3 (with the self-hosted OpenSource super-tool I'm still trying to describe)
