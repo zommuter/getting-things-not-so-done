@@ -49,8 +49,10 @@ OK, let's dump some tasks here for now:
 * [ ] Getting things not-so-done
   * [ ] Have CodeMirror automatically use spell-checking when GitHub-editing Markdown
   * [ ] or change the work-flow, e.g. use Abricotine locally (with an on-save commit/pull?)
+  * [ ] a TOC would be nice. But will this project remain monolithic?
   * [ ] Convert this into a github page
   * [ ] Add comment and/or annotation system (how will annotations work with content changing over time? Maybe this monolith should be shattered)
+  * [ ] monolithic or not?
 * [ ] Determine proper task tracking system
   * [ ] GitHub issues
   * [ ] or GitLab (I'm somehow hoping I'll find something OpenSource and self-hosted, yet usable without any further effort...)
