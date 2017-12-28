@@ -33,3 +33,9 @@ The final Window contains, among other "Projects" I'm trying to work on (e.g. so
   * https://github.com/codemirror/CodeMirror/issues/1017#issuecomment-122308718
 
 not all of them read yet, of course.
+
+# Tasks
+
+So, since I haven't found the perfect tool for what I'm doing, I have to write down my tasks in another way. Fortunately GitHub-flavored Markdown supports checkboxes, so
+
+* [ ] Use checkboxes for tasks
