@@ -38,4 +38,8 @@ not all of them read yet, of course.
 
 So, since I haven't found the perfect tool for what I'm doing, I have to write down my tasks in another way. Fortunately GitHub-flavored Markdown supports checkboxes, so
 
-* [ ] Use checkboxes for tasks
+* [X] Use checkboxes for tasks
+
+As [it turns out](https://help.github.com/articles/about-task-lists/), the boxes are only interactive when used in comments on issues and pull requests. Should I actually be using GitHub's issue system for this "project" somehow? I'm reluctant to do so, since I'm actually still trying to evaluate what kind of tool(s) I actually need. The checkboxes actually reminds me that I wanted to have a look at org-mode. But while we're at it, I also recently learned GitHub will also render AsciiDoc, which might be a viable alternative to ReStructuredText. Oh yes, welcome to my mind. [Jumping around](https://www.youtube.com/watch?v=KZaz7OqyTHQ).
+
+I'm getting tired of unrendered Markdown. I think I'll try to integrate https://github.com/brrd/Abricotine into my workflow somehow.
