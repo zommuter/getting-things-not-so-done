@@ -12,3 +12,24 @@ You might also notice my spelling will contain errors. I'm too lazy to pull and 
 ## Single-focus? Not really.
 
 Is my focus _slightly_ drifting while I'm trying to write & research this? Hell yes. I think it would be interesting to attach a list of open tabs to each commit here. Let's just have a rough overview: At the moment I have three windows of Firefox open, each filled with too many tabs, and oh boy [TreeStyleTab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) is such an enabler for my behaviour. So one Window contains mostly tabs for job vacancies I'm considering to apply to (I'm basically unemployed at the moment, though technically it's paid ~vacation~ indemnity (is that the correct word?) until February 2018). One contains tutorials and the likes for Docker, Raspberry Pi, Ethereum, btrfs VS zfs VS ceph (is that a bit like comparing apples to oranges?), reviews or project / issue management etc. I'm certain I'll actually read and work with all of this. Just like I'm going to play [all the currently 2218 games I got on Steam](http://steamcommunity.com/id/zommuter). Thank you _so_ much, http://humblebundle.com. *Note to self: Find a sarcasm-emoji...*
+
+The final Window contains, among other "Projects" I'm trying to work on (e.g. some mathematical problems, some Physics, some more. Maybe I'll reveal some about that later, but at the moment I'm secretly hoping one of those ideas turns out to be something no one else actually ever considered or at least managed to complete. Egoistic, and against the spirit of a platform like GitHub, and probably also futile. Speaking of which, a Borg-like hive mined would be the perfect remedy for this thinking. But anyway, one of my project ideas actually is _about_ project ideas, how to share parts of them without "loosing" your self-declared rule over them. Or at least, how to exchange ideas without the fear of someone "stealing" them. Have a look at [zomtems](https://github.com/zommuter/zomtems "Is there no easy way to link to a repo? I only found the PR/issue-linking"), though that's very much WIP), this text and the related tabs, such as:
+
+* https://github.com/wireddown/ghpages-ghcomments/tree/master
+  * http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html
+  * https://mademistakes.com/articles/jekyll-static-comments/
+    * https://staticman.net/
+    * http://michelleful.github.io/code-blog/2014/03/16/adding-third-party-comments-to-a-jekyll-blog/
+  * https://web.hypothes.is/
+    * https://annotorious.github.io/#
+    * https://github.com/ecds/digitaledition-jekylltheme
+    * https://web.hypothes.is/for-publishers/#embedding
+* https://github.com/kogmbh/WebODF/issues/170
+  * https://github.com/GitbookIO/feedback/issues/255
+* https://addons.mozilla.org/en-US/firefox/addon/stylish/
+  * https://codemirror.net/
+  * https://stackoverflow.com/questions/12343922/codemirror-with-spell-checker
+  * https://discuss.codemirror.net/t/inputstyle-contenteditable-we-may-hope-for-browser-spell-checking/608/6
+  * https://github.com/codemirror/CodeMirror/issues/1017#issuecomment-122308718
+
+not all of them read yet, of course.
