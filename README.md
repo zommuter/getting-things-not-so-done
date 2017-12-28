@@ -43,3 +43,21 @@ So, since I haven't found the perfect tool for what I'm doing, I have to write d
 As [it turns out](https://help.github.com/articles/about-task-lists/), the boxes are only interactive when used in comments on issues and pull requests. Should I actually be using GitHub's issue system for this "project" somehow? I'm reluctant to do so, since I'm actually still trying to evaluate what kind of tool(s) I actually need. The checkboxes actually reminds me that I wanted to have a look at org-mode. But while we're at it, I also recently learned GitHub will also render AsciiDoc, which might be a viable alternative to ReStructuredText. Oh yes, welcome to my mind. [Jumping around](https://www.youtube.com/watch?v=KZaz7OqyTHQ).
 
 I'm getting tired of unrendered Markdown. I think I'll try to integrate https://github.com/brrd/Abricotine into my workflow somehow.
+
+OK, let's dump some tasks here for now:
+
+* [ ] Determine proper task tracking system
+  * [ ] GitHub issues
+  * [ ] or GitLab (I'm somehow hoping I'll find something OpenSource and self-hosted, yet usable without any further effort...)
+  * [ ] Trello
+  * [ ] http://taiga.io
+  * [ ] Phabricator
+  * [ ] ???
+  * [ ] Profit <!-- also insert a Ferengi-joke here if you want -->
+* [ ] Convert this into a github page
+  * [ ] Add comment and/or annotation system (how will annotations work with content changing over time? Maybe this monolith should be shattered)
+* [ ] Project management
+* [ ] Understand Ethereum better
+* [ ] Set up my Raspberry Pi 3 (with the self-hosted OpenSource super-tool I'm still trying to describe)
+* [ ] Zomtems
+* [ ] the other "Projects"
