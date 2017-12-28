@@ -79,4 +79,4 @@ So, do I like meta? [Yes I do](https://xkcd.com/917/). Inlfownistration, a portm
 * Planning a tunnel? Information = the requirements, laws, guidelines, etc. 
 * Religion? Information = e.g. unexplained, probably improbable event. Despair. Hope. _Lots_.
 
-Somehow everything boils down to some input information (be it a simple sensory feedback such as feeling cold, or a convoluted network of learned behaviour such as knowing that social behaviour is (or at least, _should_) be more rewarding than _asocial_ behaviour), implied consequences.
+Somehow everything boils down to some input information (be it a simple sensory feedback such as feeling cold, or a convoluted network of learned behaviour such as knowing that social behaviour is (or at least, _should_) be more rewarding than _asocial_ behaviour), implied consequences and our decisions on how to interact (assuming free will, but I defy fatalism despite my cynicism).
